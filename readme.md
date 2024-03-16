@@ -1,6 +1,3 @@
-# Hosted Here
-https://pipersocial.netlify.app/
-
 
 # Tech Stack
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![image](https://camo.githubusercontent.com/44b6b5073fe4e7788180a0b840060d350cc756ad9745d2f269fad7d48e54b948/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6a77742e737667)
